@@ -5,3 +5,6 @@ I am currently working on a Master's of Engineering at the University of Califor
 
 This page contains a portfolio of some of my previous and current projects. I have added links and descriptions for each of them, but feel free to email me any further questions at omprabhu98@gmail.com
 
+In progress
+Zendar Capstone Project: 
+For my Master's program, I am currently working on a capstone project with Zendar, a manufacturer of high-definition radar to be utilized on autonomous vehicles. I am leading a team of 4 people to develop an algorithm that will run image segmentation on camera streams and then use this data to identify objects on a radar stream simulatenously. We are using OpenCV in Python and our current progress can be seen at: https://github.com/Mmengyw/Capstone-Project
