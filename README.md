@@ -1,4 +1,4 @@
-Welcome to Om Prabhu's Github Page
+**Welcome to Om Prabhu's Github Page**
 
 
 A little bit about myself: 
