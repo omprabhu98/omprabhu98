@@ -10,7 +10,10 @@ I am currently working on a Master's of Engineering at the University of Califor
 This page contains a portfolio of some of my previous and current projects. I have added links and descriptions for each of them, but feel free to email me any further questions at omprabhu98@gmail.com
 
 
+
+
 **In Progress**
+
 
 
 Zendar Capstone Project: 
@@ -19,6 +22,7 @@ For my Master's program, I am currently working on a capstone project with Zenda
 
 
 **Completed**
+
 
 
 Robotics Final Project- SawYeet: 
