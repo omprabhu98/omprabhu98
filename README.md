@@ -12,7 +12,7 @@ This page contains a portfolio of some of my previous and current projects. I ha
 
 **Zendar Capstone Project:** 
 
-For my Master's program, I am currently working on a capstone project with Zendar, a manufacturer of high-definition radar to be utilized on autonomous vehicles. I am leading a team of 4 people to develop an algorithm that will run image segmentation on camera streams and then use this data to identify objects on a radar stream simultaneously. Our team has accomplished implementing image segmentation and monocular depth prediction on videos and is currently trying to retrieve Cartesian coordinates from the depth map. We are using OpenCV in Python and our current progress can be seen at: https://github.com/Mmengyw/Capstone-Project
+For my Master's program, I am currently working on a capstone project with Zendar, a manufacturer of high-definition radar to be utilized on autonomous vehicles. I am leading a team of 4 people to develop an algorithm that will run image segmentation on camera streams and then use this data to identify objects on a radar stream simultaneously. Our team has accomplished implementing image segmentation and monocular depth prediction on videos and is currently trying to retrieve Cartesian coordinates from the depth map. We are using OpenCV in Python and our current progress can be seen at: https://github.com/Mmengyw/Capstone-Updated
 
 
 ## Completed
