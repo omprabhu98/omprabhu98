@@ -3,19 +3,16 @@
 
 **A little bit about myself:**
 
-I am currently working on a Master's of Engineering at the University of California, Berkeley with a concentration in Control of Robotics and Autonomous Systems. I graduated Summa Cum Laude from Rutgers University with a Bachelor of Science in Mechanical Engineering and a minor in Computer Science. My interests include robotics, autonomous vehicles, computer vision, and aerospace and I am looking for full-time opportunities where I can use my technical skills to work on projects that will accelerate humanity into the future! When I am not working, I enjoy playing volleyball, doing crosswords, and participating in trivia contests.
+I have 1 year of software experience in C++ and Python at Nuro Robotics and I have completed my Master's of Engineering at the University of California, Berkeley with a concentration in Control of Robotics and Autonomous Systems. I graduated Summa Cum Laude from Rutgers University with a Bachelor of Science in Mechanical Engineering and a minor in Computer Science. My interests include robotics, autonomous vehicles, computer vision, and aerospace and I am looking for full-time opportunities where I can use my technical skills to work on projects that will accelerate humanity into the future! When I am not working, I enjoy playing volleyball, doing crosswords, and participating in trivia contests.
 
 
 This page contains a portfolio of some of my previous and current projects. I have added links and descriptions for each of them, but feel free to email me any further questions at omprabhu98@gmail.com
 
-## In Progress
+## Completed
 
 **Zendar Capstone Project:** 
 
 For my Master's program, I am currently working on a capstone project with Zendar, a manufacturer of high-definition radar to be utilized on autonomous vehicles. I am leading a team of 4 people to develop an algorithm that will run image segmentation on camera streams and then use this data to identify objects on a radar stream simultaneously. Our team has accomplished implementing image segmentation and monocular depth prediction on videos and is currently trying to retrieve Cartesian coordinates from the depth map. We are using OpenCV in Python and our current progress can be seen at: https://github.com/Mmengyw/Capstone-Updated
-
-
-## Completed
 
 **Robotics Final Project- SawYeet:** 
 
