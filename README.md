@@ -6,7 +6,7 @@
 I have 1 year of software experience in C++ and Python at Nuro Robotics and I have completed my Master's of Engineering at the University of California, Berkeley with a concentration in Control of Robotics and Autonomous Systems. I graduated Summa Cum Laude from Rutgers University with a Bachelor of Science in Mechanical Engineering and a minor in Computer Science. My interests include robotics, autonomous vehicles, computer vision, and aerospace and I am looking for full-time opportunities where I can use my technical skills to work on projects that will accelerate humanity into the future! When I am not working, I enjoy playing volleyball, doing crosswords, and participating in trivia contests.
 
 
-This page contains a portfolio of some of my previous and current projects. I have added links and descriptions for each of them, but feel free to email me any further questions at omprabhu98@gmail.com
+This page contains a portfolio of some of my previous and current projects. Most of these projects I contributed to with a school email account so I have just forked over the repositories. I have added links and descriptions for each of them, but feel free to email me any further questions at omprabhu98@gmail.com
 
 ## Completed
 
@@ -16,7 +16,7 @@ For my Master's program, I am currently working on a capstone project with Zenda
 
 **Robotics Final Project- SawYeet:** 
 
-My team and I decided to make a Sawyer arm track and hit a ball for the final project for our Introduction to Robotics class. We encountered many difficulties, but overcame them through perseverance and creative problem solving using all available tools on ROS and OpenCV. Our final implementation uses color segmentation to track the ball, Kalman filters for the trajectory, and an internal hashmap for the joint trajectories. In the end, the Sawyer arm was able to track the ball, predict its trajectory, and move to the desired position within 1 second. Overall, it hit the ball 70% of the time, which is much higher than we predicted. We made a website to showcase our results and how we got there at: https://sawyeet.github.io
+My team and I decided to make a Sawyer arm track and hit a ball for the final project for our Introduction to Robotics class. We encountered many difficulties but overcame them through perseverance and creative problem-solving using all available tools on ROS and OpenCV. Our final implementation uses color segmentation to track the ball, Kalman filters for the trajectory, and an internal hashmap for the joint trajectories. In the end, the Sawyer arm was able to track the ball, predict its trajectory, and move to the desired position within 1 second. Overall, it hit the ball 70% of the time, which is much higher than we predicted. We made a website to showcase our results and how we got there at: https://sawyeet.github.io
 
 
 **Advanced Controls Final Project- Model Predictive Controller for Lane Changing of Autonomous Vehicles:**
